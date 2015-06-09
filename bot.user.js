@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        GLP.Kafaro
+// @namespace   GLP.Kafaro
 // @include     http://agar.io/
 // @version     3.03
 // @grant       none
